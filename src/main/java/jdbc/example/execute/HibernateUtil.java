@@ -1,3 +1,5 @@
+package jdbc.example.execute;
+
 import jdbc.example.model.Customers;
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;

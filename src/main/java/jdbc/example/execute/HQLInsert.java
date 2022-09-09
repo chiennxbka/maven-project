@@ -1,9 +1,9 @@
+package jdbc.example.execute;
+
 import jdbc.example.model.Customers;
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
-
-import javax.persistence.Query;
 
 public class HQLInsert {
 

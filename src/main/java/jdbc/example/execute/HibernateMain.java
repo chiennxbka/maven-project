@@ -1,6 +1,7 @@
+package jdbc.example.execute;
+
 import jdbc.example.model.Customers;
 import org.hibernate.Session;
-import org.hibernate.Transaction;
 
 import javax.persistence.Query;
 import java.util.List;

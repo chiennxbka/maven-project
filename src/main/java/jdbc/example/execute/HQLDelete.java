@@ -1,4 +1,5 @@
-import jdbc.example.model.Customers;
+package jdbc.example.execute;
+
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
